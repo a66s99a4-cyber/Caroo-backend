@@ -27,15 +27,23 @@ app.use("/api/reviews", require("./routes/reviewRoutes"))
 app.use("/api/admin", require("./routes/adminRoutes"))
 
 const PORT = process.env.PORT || 3000
+const MONGODB_URI = process.env.MONGODB_URI
+
+if (!MONGODB_URI) {
+  console.log("MONGODB_URI is missing in .env file")
+  process.exit(1)
+}
 
 mongoose
-  .connect(process.env.MONGODB_URI)
+  .connect(MONGODB_URI)
   .then(() => {
     console.log("MongoDB Connected")
+
     app.listen(PORT, () => {
       console.log(`Server running on port ${PORT}`)
     })
   })
   .catch((error) => {
     console.log("MongoDB connection error:", error.message)
+    process.exit(1)
   })

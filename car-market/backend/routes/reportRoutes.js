@@ -8,7 +8,8 @@ router.get("/", protect, async (req, res) => {
   try {
     const reports = await Report.find()
       .populate("car")
-      .populate("reporter", "nameEn nameAr")
+      .populate("reporter", "nameEn nameAr email")
+      .sort({ createdAt: -1 })
 
     res.json(reports)
   } catch (error) {
