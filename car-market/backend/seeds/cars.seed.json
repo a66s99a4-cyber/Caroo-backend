@@ -1,0 +1,2402 @@
+[
+  {
+    "title": "2019 Mercedes GLC",
+    "brand": "Mercedes",
+    "model": "GLC",
+    "year": 2019,
+    "price": 16444,
+    "currency": "BHD",
+    "mileage": 111600,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes GLC in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Parking Sensors",
+      "Rear Camera",
+      "Navigation"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "price": 29495,
+    "currency": "BHD",
+    "mileage": 11727,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Parking Sensors",
+      "Navigation",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Porsche Cayenne",
+    "brand": "Porsche",
+    "model": "Cayenne",
+    "year": 2019,
+    "price": 4963,
+    "currency": "BHD",
+    "mileage": 19879,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Cayenne in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Rear Camera",
+      "Leather Seats",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 BMW 3 Series",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2021,
+    "price": 27904,
+    "currency": "BHD",
+    "mileage": 15878,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 3 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Leather Seats",
+      "Rear Camera",
+      "Bluetooth"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Porsche Macan",
+    "brand": "Porsche",
+    "model": "Macan",
+    "year": 2019,
+    "price": 24712,
+    "currency": "BHD",
+    "mileage": 128844,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Macan in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Leather Seats",
+      "Parking Sensors",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2024,
+    "price": 33559,
+    "currency": "BHD",
+    "mileage": 78037,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Blind Spot Monitor",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Mercedes GLE",
+    "brand": "Mercedes",
+    "model": "GLE",
+    "year": 2020,
+    "price": 26122,
+    "currency": "BHD",
+    "mileage": 19646,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes GLE in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Bluetooth",
+      "Leather Seats",
+      "Sunroof"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "price": 20288,
+    "currency": "BHD",
+    "mileage": 98267,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Blind Spot Monitor",
+      "Apple CarPlay",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Porsche Boxster",
+    "brand": "Porsche",
+    "model": "Boxster",
+    "year": 2018,
+    "price": 22879,
+    "currency": "BHD",
+    "mileage": 89168,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Boxster in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Parking Sensors",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2023,
+    "price": 4844,
+    "currency": "BHD",
+    "mileage": 43278,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Parking Sensors",
+      "Bluetooth",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Mercedes C63",
+    "brand": "Mercedes",
+    "model": "C63",
+    "year": 2024,
+    "price": 33055,
+    "currency": "BHD",
+    "mileage": 43862,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes C63 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Rear Camera",
+      "Leather Seats",
+      "Sunroof"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Porsche Panamera",
+    "brand": "Porsche",
+    "model": "Panamera",
+    "year": 2021,
+    "price": 11839,
+    "currency": "BHD",
+    "mileage": 69306,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Panamera in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Leather Seats",
+      "Rear Camera",
+      "Parking Sensors"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Porsche Cayenne",
+    "brand": "Porsche",
+    "model": "Cayenne",
+    "year": 2021,
+    "price": 29657,
+    "currency": "BHD",
+    "mileage": 132165,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Cayenne in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Navigation",
+      "Parking Sensors",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Nissan Kicks",
+    "brand": "Nissan",
+    "model": "Kicks",
+    "year": 2025,
+    "price": 36626,
+    "currency": "BHD",
+    "mileage": 147298,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Excellent",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Kicks in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Sunroof",
+      "Leather Seats",
+      "Parking Sensors"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "price": 18711,
+    "currency": "BHD",
+    "mileage": 20048,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Apple CarPlay",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Nissan Sunny",
+    "brand": "Nissan",
+    "model": "Sunny",
+    "year": 2020,
+    "price": 7887,
+    "currency": "BHD",
+    "mileage": 128614,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Sunny in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Apple CarPlay",
+      "Rear Camera",
+      "Bluetooth"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 Range Rover Discovery",
+    "brand": "Range Rover",
+    "model": "Discovery",
+    "year": 2023,
+    "price": 34823,
+    "currency": "BHD",
+    "mileage": 82404,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Range Rover Discovery in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Bluetooth",
+      "Leather Seats",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Audi Q7",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2019,
+    "price": 7324,
+    "currency": "BHD",
+    "mileage": 84679,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi Q7 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Leather Seats",
+      "Navigation",
+      "Parking Sensors"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Range Rover Velar",
+    "brand": "Range Rover",
+    "model": "Velar",
+    "year": 2020,
+    "price": 11766,
+    "currency": "BHD",
+    "mileage": 29157,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Range Rover Velar in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Rear Camera",
+      "Blind Spot Monitor",
+      "Parking Sensors"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Nissan GT-R",
+    "brand": "Nissan",
+    "model": "GT-R",
+    "year": 2020,
+    "price": 33930,
+    "currency": "BHD",
+    "mileage": 86915,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan GT-R in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Navigation",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Lexus GX",
+    "brand": "Lexus",
+    "model": "GX",
+    "year": 2022,
+    "price": 21683,
+    "currency": "BHD",
+    "mileage": 128891,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus GX in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Parking Sensors",
+      "Navigation",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 BMW X5",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2018,
+    "price": 7460,
+    "currency": "BHD",
+    "mileage": 111738,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW X5 in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Rear Camera",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2025,
+    "price": 20156,
+    "currency": "BHD",
+    "mileage": 6258,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Apple CarPlay",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2020,
+    "price": 6279,
+    "currency": "BHD",
+    "mileage": 13496,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Altima in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Navigation",
+      "Blind Spot Monitor",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Mercedes C63",
+    "brand": "Mercedes",
+    "model": "C63",
+    "year": 2022,
+    "price": 13905,
+    "currency": "BHD",
+    "mileage": 152297,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes C63 in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Parking Sensors",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2018,
+    "price": 22082,
+    "currency": "BHD",
+    "mileage": 2643,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Rear Camera",
+      "Apple CarPlay",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 BMW X5",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2025,
+    "price": 36597,
+    "currency": "BHD",
+    "mileage": 38064,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW X5 in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Rear Camera",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Nissan GT-R",
+    "brand": "Nissan",
+    "model": "GT-R",
+    "year": 2020,
+    "price": 34622,
+    "currency": "BHD",
+    "mileage": 48080,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Juffair",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan GT-R in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Blind Spot Monitor",
+      "Rear Camera",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Nissan Kicks",
+    "brand": "Nissan",
+    "model": "Kicks",
+    "year": 2019,
+    "price": 16326,
+    "currency": "BHD",
+    "mileage": 40694,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Kicks in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Parking Sensors",
+      "Bluetooth",
+      "Navigation"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Porsche Boxster",
+    "brand": "Porsche",
+    "model": "Boxster",
+    "year": 2022,
+    "price": 28565,
+    "currency": "BHD",
+    "mileage": 54547,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Boxster in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Rear Camera",
+      "Leather Seats",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Audi R8",
+    "brand": "Audi",
+    "model": "R8",
+    "year": 2022,
+    "price": 18188,
+    "currency": "BHD",
+    "mileage": 126356,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi R8 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Rear Camera",
+      "Leather Seats",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Toyota Supra",
+    "brand": "Toyota",
+    "model": "Supra",
+    "year": 2020,
+    "price": 13182,
+    "currency": "BHD",
+    "mileage": 87550,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Supra in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Rear Camera",
+      "Parking Sensors",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Range Rover Discovery",
+    "brand": "Range Rover",
+    "model": "Discovery",
+    "year": 2021,
+    "price": 22496,
+    "currency": "BHD",
+    "mileage": 150300,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Range Rover Discovery in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Rear Camera",
+      "Bluetooth",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Audi RS5",
+    "brand": "Audi",
+    "model": "RS5",
+    "year": 2018,
+    "price": 6037,
+    "currency": "BHD",
+    "mileage": 149446,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi RS5 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Rear Camera",
+      "Blind Spot Monitor",
+      "Navigation"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Audi Q7",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2019,
+    "price": 10072,
+    "currency": "BHD",
+    "mileage": 112362,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi Q7 in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Navigation",
+      "Apple CarPlay",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Nissan Sunny",
+    "brand": "Nissan",
+    "model": "Sunny",
+    "year": 2021,
+    "price": 32110,
+    "currency": "BHD",
+    "mileage": 135834,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Sunny in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Navigation",
+      "Apple CarPlay",
+      "Bluetooth"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Lexus GX",
+    "brand": "Lexus",
+    "model": "GX",
+    "year": 2019,
+    "price": 33891,
+    "currency": "BHD",
+    "mileage": 27216,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus GX in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Rear Camera",
+      "Parking Sensors",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Toyota Supra",
+    "brand": "Toyota",
+    "model": "Supra",
+    "year": 2024,
+    "price": 25084,
+    "currency": "BHD",
+    "mileage": 68478,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Supra in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Blind Spot Monitor",
+      "Navigation",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 BMW X5",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "price": 34608,
+    "currency": "BHD",
+    "mileage": 158580,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW X5 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Rear Camera",
+      "Blind Spot Monitor",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Toyota Supra",
+    "brand": "Toyota",
+    "model": "Supra",
+    "year": 2022,
+    "price": 31815,
+    "currency": "BHD",
+    "mileage": 56010,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Supra in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Blind Spot Monitor",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Lexus LS",
+    "brand": "Lexus",
+    "model": "LS",
+    "year": 2020,
+    "price": 34416,
+    "currency": "BHD",
+    "mileage": 11631,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Excellent",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus LS in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Parking Sensors",
+      "Blind Spot Monitor",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Porsche Boxster",
+    "brand": "Porsche",
+    "model": "Boxster",
+    "year": 2021,
+    "price": 16508,
+    "currency": "BHD",
+    "mileage": 98103,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Boxster in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Blind Spot Monitor",
+      "Navigation",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Range Rover Sport",
+    "brand": "Range Rover",
+    "model": "Sport",
+    "year": 2024,
+    "price": 33739,
+    "currency": "BHD",
+    "mileage": 2058,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Range Rover Sport in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Parking Sensors",
+      "Bluetooth",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 BMW 3 Series",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "price": 18401,
+    "currency": "BHD",
+    "mileage": 59257,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 3 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Leather Seats",
+      "Parking Sensors",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 Nissan Patrol",
+    "brand": "Nissan",
+    "model": "Patrol",
+    "year": 2023,
+    "price": 18076,
+    "currency": "BHD",
+    "mileage": 143827,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Patrol in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Parking Sensors",
+      "Leather Seats",
+      "Rear Camera"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Toyota C-HR",
+    "brand": "Toyota",
+    "model": "C-HR",
+    "year": 2024,
+    "price": 14674,
+    "currency": "BHD",
+    "mileage": 10867,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota C-HR in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Apple CarPlay",
+      "Bluetooth",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 BMW 3 Series",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2025,
+    "price": 25914,
+    "currency": "BHD",
+    "mileage": 104208,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 3 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Leather Seats",
+      "Navigation",
+      "Bluetooth"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 Toyota C-HR",
+    "brand": "Toyota",
+    "model": "C-HR",
+    "year": 2023,
+    "price": 25342,
+    "currency": "BHD",
+    "mileage": 90871,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota C-HR in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Sunroof",
+      "Blind Spot Monitor",
+      "Bluetooth"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Toyota Land Cruiser",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2018,
+    "price": 20508,
+    "currency": "BHD",
+    "mileage": 121658,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Land Cruiser in clean condition with GCC specs and full options.",
+    "features": [
+      "Sunroof",
+      "Leather Seats",
+      "Bluetooth",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Mercedes C63",
+    "brand": "Mercedes",
+    "model": "C63",
+    "year": 2025,
+    "price": 26561,
+    "currency": "BHD",
+    "mileage": 128851,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes C63 in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Parking Sensors",
+      "Blind Spot Monitor",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 BMW M4",
+    "brand": "BMW",
+    "model": "M4",
+    "year": 2021,
+    "price": 6572,
+    "currency": "BHD",
+    "mileage": 84279,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Juffair",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW M4 in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Leather Seats",
+      "Navigation",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Range Rover Velar",
+    "brand": "Range Rover",
+    "model": "Velar",
+    "year": 2022,
+    "price": 23079,
+    "currency": "BHD",
+    "mileage": 97998,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Range Rover Velar in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Parking Sensors",
+      "Leather Seats",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Lexus RC",
+    "brand": "Lexus",
+    "model": "RC",
+    "year": 2024,
+    "price": 6962,
+    "currency": "BHD",
+    "mileage": 103905,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus RC in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Parking Sensors",
+      "Navigation",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Audi A6",
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2022,
+    "price": 25727,
+    "currency": "BHD",
+    "mileage": 133370,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi A6 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Parking Sensors",
+      "Leather Seats",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Lexus GX",
+    "brand": "Lexus",
+    "model": "GX",
+    "year": 2018,
+    "price": 33351,
+    "currency": "BHD",
+    "mileage": 144535,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Excellent",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus GX in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Apple CarPlay",
+      "Rear Camera",
+      "Navigation"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2022,
+    "price": 24774,
+    "currency": "BHD",
+    "mileage": 120985,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Excellent",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Leather Seats",
+      "Rear Camera",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Audi A4",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2025,
+    "price": 14196,
+    "currency": "BHD",
+    "mileage": 134298,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi A4 in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Blind Spot Monitor",
+      "Bluetooth",
+      "Navigation"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 BMW 5 Series",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2025,
+    "price": 18686,
+    "currency": "BHD",
+    "mileage": 3790,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Excellent",
+    "location": "Juffair",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 5 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Bluetooth",
+      "Sunroof",
+      "Rear Camera"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "price": 32613,
+    "currency": "BHD",
+    "mileage": 143631,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Excellent",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Sunroof",
+      "Blind Spot Monitor",
+      "Leather Seats"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Lexus GX",
+    "brand": "Lexus",
+    "model": "GX",
+    "year": 2025,
+    "price": 11639,
+    "currency": "BHD",
+    "mileage": 137987,
+    "category": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus GX in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Parking Sensors",
+      "Bluetooth",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 BMW M3",
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2019,
+    "price": 7064,
+    "currency": "BHD",
+    "mileage": 136841,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW M3 in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Blind Spot Monitor",
+      "Bluetooth",
+      "Rear Camera"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2025,
+    "price": 31138,
+    "currency": "BHD",
+    "mileage": 151223,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Rear Camera",
+      "Blind Spot Monitor",
+      "Parking Sensors"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 BMW 3 Series",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2024,
+    "price": 25370,
+    "currency": "BHD",
+    "mileage": 124357,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 3 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Parking Sensors",
+      "Blind Spot Monitor",
+      "Bluetooth"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Lexus IS350",
+    "brand": "Lexus",
+    "model": "IS350",
+    "year": 2019,
+    "price": 12490,
+    "currency": "BHD",
+    "mileage": 25200,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus IS350 in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Apple CarPlay",
+      "Rear Camera",
+      "Bluetooth"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Porsche Boxster",
+    "brand": "Porsche",
+    "model": "Boxster",
+    "year": 2019,
+    "price": 32195,
+    "currency": "BHD",
+    "mileage": 6614,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Boxster in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Parking Sensors",
+      "Bluetooth",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Nissan Kicks",
+    "brand": "Nissan",
+    "model": "Kicks",
+    "year": 2024,
+    "price": 18590,
+    "currency": "BHD",
+    "mileage": 91928,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nissan Kicks in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Parking Sensors",
+      "Rear Camera",
+      "Sunroof"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2021 Porsche 911",
+    "brand": "Porsche",
+    "model": "911",
+    "year": 2021,
+    "price": 13468,
+    "currency": "BHD",
+    "mileage": 42902,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Very Good",
+    "location": "Muharraq",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche 911 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Sunroof",
+      "Rear Camera",
+      "Parking Sensors"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2023 Lexus RC",
+    "brand": "Lexus",
+    "model": "RC",
+    "year": 2023,
+    "price": 36554,
+    "currency": "BHD",
+    "mileage": 121590,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus RC in clean condition with GCC specs and full options.",
+    "features": [
+      "Apple CarPlay",
+      "Leather Seats",
+      "Navigation",
+      "Parking Sensors"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Lexus LX570",
+    "brand": "Lexus",
+    "model": "LX570",
+    "year": 2019,
+    "price": 12600,
+    "currency": "BHD",
+    "mileage": 121710,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Very Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus LX570 in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Leather Seats",
+      "Apple CarPlay",
+      "Bluetooth"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2022 Audi R8",
+    "brand": "Audi",
+    "model": "R8",
+    "year": 2022,
+    "price": 21621,
+    "currency": "BHD",
+    "mileage": 153736,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Good",
+    "location": "Seef",
+    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi R8 in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Bluetooth",
+      "Navigation",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 Toyota Land Cruiser",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2019,
+    "price": 22257,
+    "currency": "BHD",
+    "mileage": 22356,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Land Cruiser in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Blind Spot Monitor",
+      "Parking Sensors",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Audi R8",
+    "brand": "Audi",
+    "model": "R8",
+    "year": 2018,
+    "price": 27554,
+    "currency": "BHD",
+    "mileage": 136603,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Excellent",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Audi R8 in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Apple CarPlay",
+      "Bluetooth",
+      "Blind Spot Monitor"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2025 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "price": 6670,
+    "currency": "BHD",
+    "mileage": 100332,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Juffair",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota Camry in clean condition with GCC specs and full options.",
+    "features": [
+      "Blind Spot Monitor",
+      "Rear Camera",
+      "Navigation",
+      "Bluetooth"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 Porsche 911",
+    "brand": "Porsche",
+    "model": "911",
+    "year": 2018,
+    "price": 36275,
+    "currency": "BHD",
+    "mileage": 91816,
+    "category": "Luxury",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "White",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche 911 in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Apple CarPlay",
+      "Navigation",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2019 BMW X5",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "price": 10919,
+    "currency": "BHD",
+    "mileage": 102769,
+    "category": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Black",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW X5 in clean condition with GCC specs and full options.",
+    "features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Blind Spot Monitor",
+      "Navigation"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2024 Porsche Macan",
+    "brand": "Porsche",
+    "model": "Macan",
+    "year": 2024,
+    "price": 11376,
+    "currency": "BHD",
+    "mileage": 30414,
+    "category": "Sports",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Porsche Macan in clean condition with GCC specs and full options.",
+    "features": [
+      "Rear Camera",
+      "Sunroof",
+      "Parking Sensors",
+      "Apple CarPlay"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Lexus LS",
+    "brand": "Lexus",
+    "model": "LS",
+    "year": 2020,
+    "price": 17612,
+    "currency": "BHD",
+    "mileage": 87237,
+    "category": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Excellent",
+    "location": "Manama",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Lexus LS in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Bluetooth",
+      "Sunroof",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2018 BMW 5 Series",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2018,
+    "price": 9153,
+    "currency": "BHD",
+    "mileage": 33870,
+    "category": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Grey",
+    "condition": "Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "BMW 5 Series in clean condition with GCC specs and full options.",
+    "features": [
+      "Navigation",
+      "Sunroof",
+      "Blind Spot Monitor",
+      "Leather Seats"
+    ],
+    "isFeatured": true,
+    "isAvailable": true,
+    "user": "6a01e43b20a96a8c0a650988",
+    "owner": "6a01e43b20a96a8c0a650988"
+  },
+  {
+    "title": "2022 Mercedes C63",
+    "brand": "Mercedes",
+    "model": "C63",
+    "year": 2022,
+    "price": 9187,
+    "currency": "BHD",
+    "mileage": 47201,
+    "category": "Sports",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Very Good",
+    "location": "Riffa",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Mercedes C63 in clean condition with GCC specs and full options.",
+    "features": [
+      "Parking Sensors",
+      "Leather Seats",
+      "Rear Camera",
+      "Sunroof"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  },
+  {
+    "title": "2020 Toyota C-HR",
+    "brand": "Toyota",
+    "model": "C-HR",
+    "year": 2020,
+    "price": 33567,
+    "currency": "BHD",
+    "mileage": 59692,
+    "category": "Luxury",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "color": "Blue",
+    "condition": "Excellent",
+    "location": "Saar",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Toyota C-HR in clean condition with GCC specs and full options.",
+    "features": [
+      "Leather Seats",
+      "Parking Sensors",
+      "Rear Camera",
+      "Apple CarPlay"
+    ],
+    "isFeatured": false,
+    "isAvailable": true,
+    "user": "REPLACE_WITH_OWNER_USER_ID",
+    "owner": "REPLACE_WITH_OWNER_USER_ID"
+  }
+]
